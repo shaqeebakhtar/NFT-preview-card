@@ -55,10 +55,6 @@ body {
   place-items: center;
 }
 
-.main {
-  padding: 1em;
-}
-
 .nft {
   max-width: 25rem;
   background-color: var(--clr-bg-card);
