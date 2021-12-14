@@ -32,8 +32,6 @@ Users should be able to:
 - CSS custom properties
 - CSS Grid
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
 ## Author
 
 - Github - [shaqeebakhtar](https://github.com/shaqeebakhtar)
